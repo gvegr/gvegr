@@ -32,25 +32,10 @@ I'm a passionate developer who loves creating clean, interactive web application
 ### 📊 Dynamic GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=tokyonight" alt="Farrukh's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=gvegr&show_icons=true&theme=tokyonight" alt="Farrukh's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvegr&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
----
-
-### 🎸 Beyond the Code
-
-<p align="left">
-  <img src="https://media.giphy.com/media/🎮/giphy.gif" alt="Gaming" width="100">
-  <img src="https://media.giphy.com/media/🎸/giphy.gif" alt="Guitar" width="100">
-  <img src="https://media.giphy.com/media/🎬/giphy.gif" alt="Anime" width="100">
-</p>
-
-* 🎮 **Gaming:** (playing tactical shooters or survival open-world games)
-* 🎵 **Playing string instruments:** (electric guitar & ukulele)
-* 🌌 **Watching anime:** or expanding my collection
-
----
 
 ### 🤝 Let's Connect!
 - 😄 Pronouns: He/Him
